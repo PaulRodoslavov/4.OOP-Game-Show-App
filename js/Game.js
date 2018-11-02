@@ -1,6 +1,7 @@
 class Game {
    constructor (phraseUl) {
-      this.phrases = [  'I love Odessa',
+      this.phrases = [
+         'I love Odessa',
                         'Hello World',
                         'Eat Fresh',
                         'Have a Break Have a Kit Kats',
